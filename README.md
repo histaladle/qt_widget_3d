@@ -2,4 +2,4 @@
 
 it can be running in arm without gpu.
 
-only for line. no depth.
+only for line. without depth.
